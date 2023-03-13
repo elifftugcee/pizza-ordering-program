@@ -1,0 +1,13 @@
+Please Select a Pizza Base:
+1)  Classic	12$
+2)  Margarita	15$
+3)  Turkish Pizza	20$
+4)  Plain Pizza	10$
+And the sauce of your choice:
+5)  Olive	3$
+6)  Mushrooms	4$
+7)  Goat Cheese	5$
+8)  Meat	5$
+9)  Onion	1$
+10) Corn	3$
+Thank You!
